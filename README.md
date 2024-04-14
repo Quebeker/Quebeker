@@ -1,4 +1,4 @@
-Certainly! Here's a more professional version for your GitHub profile:
+About me:
 
     👋 Hello, I'm @Quebeker. ( William Poirier-Picker )
     👀 I'm interested in pursuing opportunities as a Python developer, working remotely.
